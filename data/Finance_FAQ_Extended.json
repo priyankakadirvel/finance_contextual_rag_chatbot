@@ -1,0 +1,4223 @@
+[
+  {
+    "id": "REG001",
+    "category": "Regulation",
+    "sub_category": "RBI Guidelines",
+    "question": "What are the RBI guidelines on minimum balance requirements?",
+    "answer": "RBI mandates banks to inform customers about minimum balance requirements in savings accounts and penalties should be reasonable. Rules may vary across banks."
+  },
+  {
+    "id": "INV001",
+    "category": "Investing",
+    "sub_category": "Mutual Funds",
+    "question": "What is a Systematic Investment Plan (SIP)?",
+    "answer": "A SIP is a method of investing a fixed amount regularly in mutual funds, encouraging disciplined investing and rupee-cost averaging."
+  },
+  {
+    "id": "BNK001",
+    "category": "Banking",
+    "sub_category": "KYC",
+    "question": "What documents are required for KYC verification?",
+    "answer": "Valid identity proof (Aadhaar, PAN), address proof, and a recent photograph are generally required for KYC verification."
+  },
+  {
+    "id": "FIN0004",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 1?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 1. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0005",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 2?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 2. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0006",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 3?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 3. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0007",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 4?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 4. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0008",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 5?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 5. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0009",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 6?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 6. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0010",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 7?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 7. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0011",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 8?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 8. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0012",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 9?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 9. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0013",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 10?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 10. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0014",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 11?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 11. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0015",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 12?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 12. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0016",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 13?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 13. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0017",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 14?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 14. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0018",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 15?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 15. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0019",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 16?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 16. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0020",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 17?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 17. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0021",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 18?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 18. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0022",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 19?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 19. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0023",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 20?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 20. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0024",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 21?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 21. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0025",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 22?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 22. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0026",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 23?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 23. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0027",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 24?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 24. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0028",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 25?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 25. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0029",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 26?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 26. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0030",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 27?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 27. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0031",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 28?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 28. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0032",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 29?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 29. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0033",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 30?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 30. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0034",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 31?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 31. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0035",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 32?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 32. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0036",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 33?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 33. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0037",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 34?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 34. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0038",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 35?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 35. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0039",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 36?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 36. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0040",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 37?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 37. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0041",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 38?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 38. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0042",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 39?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 39. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0043",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 40?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 40. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0044",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 41?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 41. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0045",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 42?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 42. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0046",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 43?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 43. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0047",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 44?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 44. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0048",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 45?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 45. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0049",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 46?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 46. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0050",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 47?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 47. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0051",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 48?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 48. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0052",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 49?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 49. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0053",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 50?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 50. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0054",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 51?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 51. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0055",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 52?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 52. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0056",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 53?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 53. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0057",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 54?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 54. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0058",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 55?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 55. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0059",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 56?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 56. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0060",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 57?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 57. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0061",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 58?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 58. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0062",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 59?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 59. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0063",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 60?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 60. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0064",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 61?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 61. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0065",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 62?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 62. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0066",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 63?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 63. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0067",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 64?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 64. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0068",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 65?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 65. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0069",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 66?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 66. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0070",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 67?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 67. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0071",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 68?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 68. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0072",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 69?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 69. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0073",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 70?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 70. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0074",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 71?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 71. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0075",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 72?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 72. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0076",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 73?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 73. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0077",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 74?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 74. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0078",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 75?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 75. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0079",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 76?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 76. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0080",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 77?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 77. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0081",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 78?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 78. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0082",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 79?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 79. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0083",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 80?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 80. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0084",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 81?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 81. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0085",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 82?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 82. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0086",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 83?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 83. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0087",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 84?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 84. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0088",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 85?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 85. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0089",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 86?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 86. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0090",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 87?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 87. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0091",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 88?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 88. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0092",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 89?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 89. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0093",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 90?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 90. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0094",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 91?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 91. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0095",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 92?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 92. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0096",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 93?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 93. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0097",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 94?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 94. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0098",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 95?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 95. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0099",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 96?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 96. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0100",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 97?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 97. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0101",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 98?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 98. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0102",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 99?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 99. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0103",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 100?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 100. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0104",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 101?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 101. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0105",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 102?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 102. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0106",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 103?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 103. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0107",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 104?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 104. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0108",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 105?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 105. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0109",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 106?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 106. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0110",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 107?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 107. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0111",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 108?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 108. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0112",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 109?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 109. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0113",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 110?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 110. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0114",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 111?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 111. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0115",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 112?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 112. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0116",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 113?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 113. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0117",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 114?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 114. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0118",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 115?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 115. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0119",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 116?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 116. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0120",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 117?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 117. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0121",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 118?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 118. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0122",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 119?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 119. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0123",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 120?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 120. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0124",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 121?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 121. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0125",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 122?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 122. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0126",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 123?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 123. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0127",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 124?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 124. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0128",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 125?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 125. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0129",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 126?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 126. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0130",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 127?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 127. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0131",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 128?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 128. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0132",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 129?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 129. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0133",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 130?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 130. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0134",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 131?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 131. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0135",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 132?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 132. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0136",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 133?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 133. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0137",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 134?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 134. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0138",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 135?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 135. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0139",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 136?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 136. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0140",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 137?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 137. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0141",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 138?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 138. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0142",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 139?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 139. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0143",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 140?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 140. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0144",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 141?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 141. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0145",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 142?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 142. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0146",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 143?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 143. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0147",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 144?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 144. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0148",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 145?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 145. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0149",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 146?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 146. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0150",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 147?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 147. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0151",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 148?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 148. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0152",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 149?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 149. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0153",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 150?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 150. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0154",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 151?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 151. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0155",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 152?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 152. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0156",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 153?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 153. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0157",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 154?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 154. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0158",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 155?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 155. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0159",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 156?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 156. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0160",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 157?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 157. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0161",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 158?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 158. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0162",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 159?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 159. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0163",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 160?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 160. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0164",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 161?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 161. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0165",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 162?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 162. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0166",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 163?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 163. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0167",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 164?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 164. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0168",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 165?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 165. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0169",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 166?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 166. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0170",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 167?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 167. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0171",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 168?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 168. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0172",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 169?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 169. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0173",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 170?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 170. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0174",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 171?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 171. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0175",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 172?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 172. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0176",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 173?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 173. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0177",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 174?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 174. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0178",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 175?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 175. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0179",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 176?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 176. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0180",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 177?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 177. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0181",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 178?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 178. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0182",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 179?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 179. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0183",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 180?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 180. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0184",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 181?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 181. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0185",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 182?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 182. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0186",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 183?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 183. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0187",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 184?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 184. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0188",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 185?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 185. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0189",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 186?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 186. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0190",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 187?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 187. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0191",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 188?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 188. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0192",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 189?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 189. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0193",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 190?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 190. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0194",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 191?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 191. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0195",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 192?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 192. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0196",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 193?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 193. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0197",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 194?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 194. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0198",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 195?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 195. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0199",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 196?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 196. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0200",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 197?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 197. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0201",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 198?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 198. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0202",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 199?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 199. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0203",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 200?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 200. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0204",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 201?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 201. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0205",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 202?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 202. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0206",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 203?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 203. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0207",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 204?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 204. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0208",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 205?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 205. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0209",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 206?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 206. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0210",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 207?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 207. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0211",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 208?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 208. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0212",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 209?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 209. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0213",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 210?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 210. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0214",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 211?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 211. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0215",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 212?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 212. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0216",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 213?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 213. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0217",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 214?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 214. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0218",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 215?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 215. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0219",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 216?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 216. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0220",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 217?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 217. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0221",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 218?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 218. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0222",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 219?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 219. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0223",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 220?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 220. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0224",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 221?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 221. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0225",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 222?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 222. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0226",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 223?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 223. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0227",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 224?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 224. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0228",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 225?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 225. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0229",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 226?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 226. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0230",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 227?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 227. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0231",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 228?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 228. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0232",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 229?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 229. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0233",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 230?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 230. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0234",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 231?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 231. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0235",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 232?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 232. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0236",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 233?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 233. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0237",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 234?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 234. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0238",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 235?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 235. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0239",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 236?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 236. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0240",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 237?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 237. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0241",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 238?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 238. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0242",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 239?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 239. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0243",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 240?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 240. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0244",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 241?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 241. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0245",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 242?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 242. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0246",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 243?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 243. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0247",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 244?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 244. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0248",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 245?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 245. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0249",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 246?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 246. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0250",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 247?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 247. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0251",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 248?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 248. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0252",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 249?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 249. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0253",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 250?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 250. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0254",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 251?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 251. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0255",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 252?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 252. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0256",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 253?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 253. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0257",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 254?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 254. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0258",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 255?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 255. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0259",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 256?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 256. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0260",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 257?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 257. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0261",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 258?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 258. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0262",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 259?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 259. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0263",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 260?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 260. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0264",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 261?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 261. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0265",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 262?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 262. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0266",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 263?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 263. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0267",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 264?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 264. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0268",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 265?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 265. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0269",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 266?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 266. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0270",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 267?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 267. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0271",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 268?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 268. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0272",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 269?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 269. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0273",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 270?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 270. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0274",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 271?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 271. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0275",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 272?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 272. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0276",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 273?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 273. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0277",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 274?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 274. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0278",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 275?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 275. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0279",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 276?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 276. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0280",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 277?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 277. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0281",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 278?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 278. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0282",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 279?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 279. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0283",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 280?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 280. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0284",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 281?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 281. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0285",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 282?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 282. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0286",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 283?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 283. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0287",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 284?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 284. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0288",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 285?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 285. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0289",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 286?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 286. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0290",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 287?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 287. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0291",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 288?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 288. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0292",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 289?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 289. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0293",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 290?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 290. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0294",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 291?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 291. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0295",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 292?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 292. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0296",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 293?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 293. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0297",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 294?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 294. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0298",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 295?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 295. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0299",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 296?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 296. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0300",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 297?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 297. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0301",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 298?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 298. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0302",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 299?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 299. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0303",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 300?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 300. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0304",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 301?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 301. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0305",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 302?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 302. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0306",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 303?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 303. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0307",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 304?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 304. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0308",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 305?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 305. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0309",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 306?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 306. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0310",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 307?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 307. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0311",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 308?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 308. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0312",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 309?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 309. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0313",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 310?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 310. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0314",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 311?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 311. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0315",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 312?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 312. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0316",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 313?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 313. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0317",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 314?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 314. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0318",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 315?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 315. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0319",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 316?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 316. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0320",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 317?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 317. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0321",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 318?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 318. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0322",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 319?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 319. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0323",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 320?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 320. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0324",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 321?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 321. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0325",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 322?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 322. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0326",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 323?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 323. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0327",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 324?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 324. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0328",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 325?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 325. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0329",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 326?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 326. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0330",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 327?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 327. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0331",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 328?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 328. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0332",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 329?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 329. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0333",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 330?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 330. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0334",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 331?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 331. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0335",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 332?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 332. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0336",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 333?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 333. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0337",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 334?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 334. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0338",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 335?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 335. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0339",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 336?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 336. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0340",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 337?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 337. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0341",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 338?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 338. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0342",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 339?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 339. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0343",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 340?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 340. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0344",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 341?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 341. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0345",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 342?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 342. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0346",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 343?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 343. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0347",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 344?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 344. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0348",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 345?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 345. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0349",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 346?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 346. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0350",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 347?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 347. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0351",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 348?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 348. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0352",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 349?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 349. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0353",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 350?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 350. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0354",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 351?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 351. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0355",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 352?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 352. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0356",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 353?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 353. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0357",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 354?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 354. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0358",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 355?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 355. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0359",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 356?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 356. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0360",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 357?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 357. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0361",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 358?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 358. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0362",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 359?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 359. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0363",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 360?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 360. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0364",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 361?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 361. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0365",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 362?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 362. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0366",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 363?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 363. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0367",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 364?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 364. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0368",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 365?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 365. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0369",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 366?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 366. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0370",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 367?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 367. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0371",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 368?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 368. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0372",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 369?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 369. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0373",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 370?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 370. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0374",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 371?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 371. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0375",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 372?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 372. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0376",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 373?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 373. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0377",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 374?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 374. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0378",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 375?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 375. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0379",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 376?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 376. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0380",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 377?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 377. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0381",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 378?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 378. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0382",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 379?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 379. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0383",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 380?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 380. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0384",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 381?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 381. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0385",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 382?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 382. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0386",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 383?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 383. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0387",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 384?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 384. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0388",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 385?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 385. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0389",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 386?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 386. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0390",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 387?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 387. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0391",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 388?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 388. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0392",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 389?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 389. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0393",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 390?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 390. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0394",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 391?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 391. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0395",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 392?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 392. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0396",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 393?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 393. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0397",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 394?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 394. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0398",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 395?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 395. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0399",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 396?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 396. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0400",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 397?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 397. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0401",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 398?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 398. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0402",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 399?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 399. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0403",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 400?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 400. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0404",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 401?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 401. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0405",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 402?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 402. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0406",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 403?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 403. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0407",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 404?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 404. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0408",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 405?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 405. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0409",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 406?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 406. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0410",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 407?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 407. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0411",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 408?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 408. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0412",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 409?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 409. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0413",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 410?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 410. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0414",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 411?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 411. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0415",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 412?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 412. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0416",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 413?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 413. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0417",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 414?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 414. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0418",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 415?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 415. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0419",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 416?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 416. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0420",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 417?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 417. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0421",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 418?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 418. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0422",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 419?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 419. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0423",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 420?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 420. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0424",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 421?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 421. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0425",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 422?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 422. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0426",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 423?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 423. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0427",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 424?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 424. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0428",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 425?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 425. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0429",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 426?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 426. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0430",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 427?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 427. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0431",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 428?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 428. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0432",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 429?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 429. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0433",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 430?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 430. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0434",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 431?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 431. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0435",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 432?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 432. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0436",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 433?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 433. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0437",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 434?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 434. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0438",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 435?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 435. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0439",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 436?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 436. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0440",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 437?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 437. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0441",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 438?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 438. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0442",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 439?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 439. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0443",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 440?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 440. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0444",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 441?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 441. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0445",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 442?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 442. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0446",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 443?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 443. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0447",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 444?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 444. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0448",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 445?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 445. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0449",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 446?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 446. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0450",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 447?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 447. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0451",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 448?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 448. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0452",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 449?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 449. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0453",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 450?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 450. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0454",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 451?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 451. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0455",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 452?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 452. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0456",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 453?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 453. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0457",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 454?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 454. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0458",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 455?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 455. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0459",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 456?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 456. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0460",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 457?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 457. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0461",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 458?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 458. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0462",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 459?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 459. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0463",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 460?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 460. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0464",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 461?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 461. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0465",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 462?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 462. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0466",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 463?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 463. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0467",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 464?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 464. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0468",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 465?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 465. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0469",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 466?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 466. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0470",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 467?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 467. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0471",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 468?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 468. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0472",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 469?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 469. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0473",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 470?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 470. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0474",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 471?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 471. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0475",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 472?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 472. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0476",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 473?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 473. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0477",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 474?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 474. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0478",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 475?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 475. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0479",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 476?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 476. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0480",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 477?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 477. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0481",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 478?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 478. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0482",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 479?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 479. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0483",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 480?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 480. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0484",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 481?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 481. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0485",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 482?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 482. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0486",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 483?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 483. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0487",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 484?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 484. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0488",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 485?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 485. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0489",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 486?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 486. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0490",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 487?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 487. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0491",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 488?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 488. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0492",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 489?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 489. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0493",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 490?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 490. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0494",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 491?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 491. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0495",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 492?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 492. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0496",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 493?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 493. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0497",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 494?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 494. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0498",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 495?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 495. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0499",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 496?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 496. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0500",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 497?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 497. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0501",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 498?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 498. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0502",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 499?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 499. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0503",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 500?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 500. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0504",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 501?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 501. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0505",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 502?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 502. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0506",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 503?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 503. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0507",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 504?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 504. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0508",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 505?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 505. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0509",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 506?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 506. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0510",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 507?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 507. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0511",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 508?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 508. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0512",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 509?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 509. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0513",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 510?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 510. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0514",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 511?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 511. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0515",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 512?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 512. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0516",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 513?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 513. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0517",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 514?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 514. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0518",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 515?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 515. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0519",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 516?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 516. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0520",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 517?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 517. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0521",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 518?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 518. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0522",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 519?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 519. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0523",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 520?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 520. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0524",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 521?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 521. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0525",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 522?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 522. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0526",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 523?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 523. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0527",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 524?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 524. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0528",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 525?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 525. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0529",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 526?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 526. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0530",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 527?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 527. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0531",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 528?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 528. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0532",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 529?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 529. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0533",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 530?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 530. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0534",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 531?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 531. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0535",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 532?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 532. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0536",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 533?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 533. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0537",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 534?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 534. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0538",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 535?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 535. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0539",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 536?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 536. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0540",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 537?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 537. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0541",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 538?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 538. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0542",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 539?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 539. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0543",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 540?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 540. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0544",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 541?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 541. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0545",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 542?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 542. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0546",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 543?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 543. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0547",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 544?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 544. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0548",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 545?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 545. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0549",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 546?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 546. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0550",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 547?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 547. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0551",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 548?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 548. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0552",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 549?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 549. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0553",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 550?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 550. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0554",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 551?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 551. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0555",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 552?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 552. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0556",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 553?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 553. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0557",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 554?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 554. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0558",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 555?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 555. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0559",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 556?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 556. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0560",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 557?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 557. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0561",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 558?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 558. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0562",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 559?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 559. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0563",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 560?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 560. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0564",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 561?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 561. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0565",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 562?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 562. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0566",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 563?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 563. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0567",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 564?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 564. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0568",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 565?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 565. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0569",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 566?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 566. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0570",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 567?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 567. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0571",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 568?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 568. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0572",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 569?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 569. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0573",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 570?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 570. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0574",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 571?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 571. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0575",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 572?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 572. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0576",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 573?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 573. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0577",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 574?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 574. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0578",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 575?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 575. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0579",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 576?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 576. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0580",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 577?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 577. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0581",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 578?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 578. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0582",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 579?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 579. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0583",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 580?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 580. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0584",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 581?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 581. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0585",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 582?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 582. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0586",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 583?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 583. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0587",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 584?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 584. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0588",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 585?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 585. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0589",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 586?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 586. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0590",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 587?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 587. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0591",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 588?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 588. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0592",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 589?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 589. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0593",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 590?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 590. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0594",
+    "category": "Banking",
+    "sub_category": "Savings Account",
+    "question": "What should I know about savings account number 591?",
+    "answer": "Here are important guidelines, risks, and benefits regarding savings account for case number 591. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0595",
+    "category": "Banking",
+    "sub_category": "Credit Card",
+    "question": "What should I know about credit card number 592?",
+    "answer": "Here are important guidelines, risks, and benefits regarding credit card for case number 592. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0596",
+    "category": "Banking",
+    "sub_category": "Loans",
+    "question": "What should I know about loans number 593?",
+    "answer": "Here are important guidelines, risks, and benefits regarding loans for case number 593. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0597",
+    "category": "Banking",
+    "sub_category": "Fraud & Security",
+    "question": "What should I know about fraud & security number 594?",
+    "answer": "Here are important guidelines, risks, and benefits regarding fraud & security for case number 594. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0598",
+    "category": "Banking",
+    "sub_category": "UPI & Digital Payments",
+    "question": "What should I know about upi & digital payments number 595?",
+    "answer": "Here are important guidelines, risks, and benefits regarding upi & digital payments for case number 595. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0599",
+    "category": "Personal Finance",
+    "sub_category": "Budgeting",
+    "question": "What should I know about budgeting number 596?",
+    "answer": "Here are important guidelines, risks, and benefits regarding budgeting for case number 596. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0600",
+    "category": "Personal Finance",
+    "sub_category": "Insurance",
+    "question": "What should I know about insurance number 597?",
+    "answer": "Here are important guidelines, risks, and benefits regarding insurance for case number 597. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0601",
+    "category": "Personal Finance",
+    "sub_category": "Retirement Planning",
+    "question": "What should I know about retirement planning number 598?",
+    "answer": "Here are important guidelines, risks, and benefits regarding retirement planning for case number 598. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0602",
+    "category": "Investing",
+    "sub_category": "Stock Market",
+    "question": "What should I know about stock market number 599?",
+    "answer": "Here are important guidelines, risks, and benefits regarding stock market for case number 599. Always verify with official/latest sources."
+  },
+  {
+    "id": "FIN0603",
+    "category": "Regulation",
+    "sub_category": "SEBI Rules",
+    "question": "What should I know about sebi rules number 600?",
+    "answer": "Here are important guidelines, risks, and benefits regarding sebi rules for case number 600. Always verify with official/latest sources."
+  }
+]

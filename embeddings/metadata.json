@@ -1,0 +1,607 @@
+[
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 0,
+    "context": "This chunk appears to be from the middle or latter section of the \"finance_faq.txt\" document, serving as a compilation of frequently asked questions (FAQs) related to personal finance and banking. The purpose is to provide concise answers to common queries on topics such as savings accounts, investments, KYC verification, credit cards, loans, and fraud/security. Key entities mentioned include the Reserve Bank of India (RBI), banks, mutual funds, and financial instruments like credit cards and loans. The overall topic is personal finance and banking regulations in India."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 1,
+    "context": "This chunk appears to be part of a question-and-answer section in the \"finance_faq.txt\" document, likely situated in the middle or towards the end of the file. Its purpose is to provide brief overviews and guidelines on various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include financial instruments and concepts. The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 2,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., stocks, credit cards, loans). The tone is informative and advisory, with a disclaimer to verify information through official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 3,
+    "context": "This chunk appears to be part of a question-and-answer section in the \"finance_faq.txt\" document, likely towards the end of the file. Its purpose is to provide brief overviews and guidelines on various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities such as financial institutions and regulatory bodies implied. The format suggests a numbered list of FAQs, with each question and answer pair providing a brief introduction to a specific financial concept, followed by a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 4,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide readers with essential information and guidelines on different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. Key entities mentioned include financial instruments and regulatory bodies, such as SEBI. The topic is personal finance and financial literacy, with a focus on providing concise answers to frequently asked questions."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 5,
+    "context": "This chunk appears to be an excerpt from the middle to late section of the \"finance_faq.txt\" document, likely serving as a question-and-answer guide for various financial topics. The purpose is to provide readers with essential information and guidelines on different aspects of finance, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities including financial institutions, regulatory bodies, and individual investors. The tone is informative and advisory, with a focus on risk management and verification of official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 6,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer series. The purpose is to provide readers with essential information on various financial topics, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities such as financial institutions, regulatory bodies (e.g., SEBI), and financial products (e.g., credit cards, loans) being discussed. The format suggests a comprehensive FAQ section, with each question numbered sequentially (28-34)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 7,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, specifically a question-and-answer series. Its purpose is to provide brief overviews and guidelines on various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities such as financial institutions and regulatory bodies implied. The format suggests a comprehensive FAQ section, with each question numbered sequentially (33-39), indicating a large collection of financial inquiries and responses."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 8,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., stocks, credit cards, loans). The tone is informative and advisory, with a consistent format of questions and answers."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 9,
+    "context": "This chunk appears to be an excerpt from the middle to late section of the \"finance_faq.txt\" document, likely within a question-and-answer format. Its purpose is to provide brief overviews and guidelines on various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities such as financial institutions and regulatory bodies implied. The questions are numbered, suggesting a comprehensive and organized FAQ section, with case numbers 43 to 49 covered in this specific chunk."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 10,
+    "context": "This chunk appears to be an excerpt from the latter part of the \"finance_faq.txt\" document, likely within a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities such as financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans) being mentioned. The format suggests a cataloging or indexing of FAQs, with each question numbered sequentially (48-54)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 11,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer guide for various financial topics. The purpose is to provide readers with essential information and guidelines on different aspects of finance, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities including financial instruments, services, and planning strategies. The format suggests a numbered or cataloged approach, with each question corresponding to a specific case number (53-59)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 12,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans). The format suggests a catalog or index of FAQs, with each question numbered sequentially (58-64)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 13,
+    "context": "This chunk appears to be part of a question-and-answer section in the \"finance_faq.txt\" document, likely towards the end of the file. Its purpose is to provide brief overviews and guidelines on various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include financial instruments and concepts. The format suggests a numbered list of FAQs, with each question followed by a brief answer and a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 14,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., stocks, credit cards, loans). The format suggests a numbered FAQ list, with each question and answer pair assigned a unique case number."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 15,
+    "context": "This chunk appears to be part of a question-and-answer section in the \"finance_faq.txt\" document, likely towards the end of the file. Its purpose is to provide brief overviews of various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include financial instruments and concepts. The format suggests a cataloging or indexing of FAQs, with each question assigned a unique case number (73-79). The repeated phrase \"Always verify with official/latest sources\" indicates a emphasis on accuracy and reliability."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 16,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans). The format suggests a numbered FAQ list, with each question and answer pair providing a concise introduction to a specific financial topic."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 17,
+    "context": "This chunk appears to be part of a question-and-answer section in the \"finance_faq.txt\" document, likely towards the end of the file. Its purpose is to provide brief overviews of various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities including financial instruments and services. Each question is assigned a unique case number (83-89), suggesting a comprehensive and organized approach to addressing common financial queries."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 18,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies like SEBI. The format suggests a question-and-answer style, with each question assigned a unique case number (88-94)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 19,
+    "context": "This chunk appears to be from the latter part of the \"finance_faq.txt\" document, likely within a question-and-answer section. Its purpose is to provide brief overviews and guidelines on various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities such as financial institutions and regulatory bodies implied. The format suggests a concise, numbered FAQ list, with each question linking to a specific case number (93-99). The repeated advice to \"always verify with official/latest sources\" indicates a focus on reliability and accuracy."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 20,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number. The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 21,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide readers with essential information and guidelines on different aspects of finance, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a comprehensive FAQ section, with each question numbered and followed by a brief answer, emphasizing the importance of verifying information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 22,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans). The format suggests a question-and-answer style, with each question assigned a unique case number (108-114)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 23,
+    "context": "This chunk appears to be a section from the \"finance_faq.txt\" document, likely situated in the middle or towards the end, given the sequential numbering of the case numbers (113-119). Its purpose is to provide a brief overview of various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities including financial instruments and concepts. The format suggests a question-and-answer style FAQ, with each question linking to a specific case number and advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 24,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (118-124). The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 25,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, serving as a question-and-answer guide for various financial topics. The purpose is to provide readers with essential information and guidelines on different aspects of personal finance, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities including loans, digital payments, insurance, and the stock market. The tone is informative and advisory, with a consistent format of questions and answers."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 26,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The questions and answers follow a consistent format, with each response advising readers to verify information with official or latest sources, suggesting a focus on providing general guidance rather than specific advice."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 27,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (133-139)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 28,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (138-144). The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 29,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide readers with essential information and guidelines on different aspects of finance, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities including financial instruments, services, and planning strategies. The format suggests a comprehensive FAQ section, with each question numbered sequentially (143-149), indicating a detailed and organized approach to addressing common financial inquiries."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 30,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, specifically a section containing a series of questions and answers related to various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The tone is informative, with a disclaimer to verify information with official sources. The chunk seems to be part of a larger FAQ section, with case numbers (148-154) suggesting a comprehensive and organized approach to addressing common financial queries."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 31,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (153-159)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 32,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., stocks, credit cards, loans). Each question is assigned a unique case number, suggesting a comprehensive and organized approach to addressing common financial queries."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 33,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (163-169)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 34,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, specifically a section containing a series of questions and answers related to various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The tone is informative, with a disclaimer to verify information with official sources. The format suggests a FAQ section, with each question assigned a unique case number (168-174)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 35,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, specifically a section containing a series of questions and answers related to various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The tone is informative, and the language suggests a neutral, advisory perspective, with a emphasis on verifying information through official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 36,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies (e.g., SEBI). The questions and answers are numbered, suggesting a comprehensive and organized approach to addressing common financial queries."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 37,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities such as financial institutions and regulatory bodies implied. The chunk covers case numbers 183-189, suggesting it is part of a larger, numbered FAQ series. The repeated phrase \"Always verify with official/latest sources\" indicates a emphasis on accuracy and reliability."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 38,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number. The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 39,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (193-199)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 40,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities such as financial institutions, regulatory bodies (e.g., SEBI), and financial products (e.g., credit cards, loans) being referenced. The format suggests a cataloging or indexing of FAQs, with each question assigned a unique case number (198-204)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 41,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market, each associated with a specific case number (203-209). The topic is personal finance, and entities mentioned include financial instruments and concepts. The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 42,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies, such as SEBI. The tone is informative and advisory, with a caveat to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 43,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topics are assigned case numbers (213-219), suggesting a comprehensive and organized approach to financial guidance. The entities mentioned are general financial concepts, with no specific companies or individuals referenced. The tone is informative and cautionary, advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 44,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number. The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 45,
+    "context": "This chunk appears to be a section from the \"finance_faq.txt\" document, likely situated in a question-and-answer format chapter. Its purpose is to provide brief overviews and guidelines on various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities such as financial institutions and regulatory bodies implied. The chunk covers case numbers 223 to 229, suggesting it is part of a larger, numbered FAQ series, with each case focusing on a distinct aspect of financial management."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 46,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (228-234). The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 47,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial subjects, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (e.g., 233, 234)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 48,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number. The repeated disclaimer to \"always verify with official/latest sources\" implies that the document is intended to provide general information rather than specific advice."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 49,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (243-249)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 50,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (248-254)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 51,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 52,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities such as financial institutions, regulatory bodies (e.g., SEBI), and financial products (e.g., credit cards, loans) being mentioned. The chunk seems to follow a consistent format, with each question (Q) followed by a brief answer (A) and a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 53,
+    "context": "This chunk appears to be a section from the \"finance_faq.txt\" document, likely situated in a question-and-answer format chapter. Its purpose is to provide introductory information and guidelines on various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include financial instruments and concepts. The chunk seems to be a table of contents or an index or introductory section, with each question linking to a specific case number (263-269), suggesting a comprehensive and organized approach to financial literacy."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 54,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans). The format suggests a catalog or index of FAQs, with each question assigned a unique case number (268-274)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 55,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (273-279)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 56,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (278-284). The text advises readers to verify information with official sources, implying a focus on providing general guidance rather than specific advice."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 57,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 58,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans). The format suggests a catalog or index of FAQs, with each entry numbered for reference."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 59,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include financial instruments and services. The format suggests a question-and-answer style, with each question assigned a unique case number (293-299). The repeated disclaimer to \"always verify with official/latest sources\" implies that the document is intended to provide general information rather than specific advice."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 60,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (298-304)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 61,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topics are assigned case numbers (303-309), suggesting a comprehensive and organized approach to financial inquiry. The entities mentioned are general financial concepts, with no specific companies or individuals referenced. The tone is informative and cautionary, advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 62,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans). The format suggests a catalog or index of FAQs, with each question assigned a unique case number (308-314)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 63,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (313-319)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 64,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., stocks, credit cards, loans). The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 65,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topics are assigned case numbers (323-329), suggesting a comprehensive and organized approach to financial inquiry. The entities mentioned are general financial concepts, with no specific companies or individuals referenced. The tone is informative and cautionary, advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 66,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer repository for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans). The format suggests a cataloged or indexed approach, with each question assigned a unique case number (328-334)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 67,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (333-339)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 68,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities such as financial institutions, regulatory bodies (e.g., SEBI), and financial products (e.g., credit cards, loans) being mentioned. The format suggests a cataloging or indexing of FAQs, with each question assigned a unique case number (e.g., 338-344)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 69,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (343-349)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 70,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 71,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (353-359)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 72,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., stocks, credit cards, loans). The format suggests a comprehensive FAQ section, with each question numbered sequentially (358-364)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 73,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, specifically a section containing a series of questions and answers related to various financial topics. The purpose of this chunk is to provide brief overviews and guidelines on different financial subjects, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and the entities mentioned are general financial concepts rather than specific companies or individuals. The tone is informative and advisory, with a emphasis on verifying information with official sources. The format suggests a FAQ or knowledge base section, likely intended to educate readers on fundamental financial concepts."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 74,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (368-374)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 75,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (373-379)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 76,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities such as financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans) being referenced. Each question is assigned a unique case number (378-384), suggesting a comprehensive and organized FAQ structure."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 77,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. Each question is assigned a unique case number (383-389), suggesting a comprehensive and organized approach to addressing financial inquiries."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 78,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (388-394)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 79,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (393-399)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 80,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security, each assigned a unique case number (398-404). The topic is personal finance, with entities such as financial institutions, regulatory bodies (e.g., SEBI), and financial products (e.g., credit cards, loans) being referenced. The tone is informative, with a disclaimer to verify information through official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 81,
+    "context": "This chunk appears to be part of a question-and-answer section in the \"finance_faq.txt\" document, likely situated in the middle or towards the end of the file. Its purpose is to provide brief overviews and guidelines on various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include financial instruments and concepts. The format suggests a cataloging or indexing of FAQs, with each question assigned a unique case number (403-409). The repeated advice to \"always verify with official/latest sources\" implies a cautious and informative tone."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 82,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans). Each question is assigned a unique case number (408-414), suggesting a comprehensive and organized approach to addressing common financial queries."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 83,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. Each question is assigned a unique case number (413-419), suggesting a comprehensive and organized approach to addressing financial inquiries."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 84,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security, each assigned a unique case number (418-424). The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies, such as SEBI. The tone is informative, advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 85,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (423-429)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 86,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, specifically a question-and-answer segment. Its purpose is to provide brief overviews and guidelines on various financial topics, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., credit cards, loans). The format suggests a catalog or index of FAQs, with each question assigned a unique case number (428-434)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 87,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and the entities mentioned are general financial concepts rather than specific companies or individuals. The format suggests a question-and-answer style, with each question assigned a unique case number (433-439)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 88,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., stocks, credit cards, loans). The format suggests a comprehensive FAQ section, with each question assigned a unique case number (438-444)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 89,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (443-449)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 90,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial instruments (e.g., stocks, credit cards, loans). The format suggests a catalog or index of FAQs, with each entry numbered for reference."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 91,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format is question-and-answer, with each question assigned a unique case number (453-459). The tone is informative and cautionary, advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 92,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (e.g., 458, 459). The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 93,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities including financial instruments and concepts. The chunk is formatted as a series of FAQs, with each question followed by a brief answer and a disclaimer to verify information with official sources. The case numbers (463-469) suggest that this is part of a larger, numbered list of financial topics."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 94,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (468-474). The repeated phrase \"Always verify with official/latest sources\" implies a disclaimer, emphasizing the importance of consulting authoritative sources for detailed information."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 95,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. Each question is assigned a unique case number (473-479), suggesting a comprehensive and organized approach to addressing financial inquiries."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 96,
+    "context": "This chunk appears to be an excerpt from the middle or latter section of the \"finance_faq.txt\" document, likely serving as a question-and-answer directory for various financial topics. The purpose is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. Key entities mentioned include SEBI (Securities and Exchange Board of India), and the topic is broadly categorized under personal finance and investment. The questions are numbered sequentially (478-484), suggesting a comprehensive and organized FAQ compilation."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 97,
+    "context": "This chunk appears to be a section from the \"finance_faq.txt\" document, likely situated in a question-and-answer format chapter. Its purpose is to provide brief overviews and guidelines on various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, with entities such as loans, digital payments, and insurance being discussed. Each question is assigned a unique case number (483-489), suggesting a comprehensive and organized approach to addressing common financial queries."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 98,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities such as financial institutions, regulatory bodies (e.g., SEBI), and financial products (e.g., credit cards, loans) being mentioned. The format suggests a catalog or index of FAQs, with each question assigned a unique case number (488-494)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 99,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (493-499)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 100,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (498-504). The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 101,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format is question-and-answer, with each question assigned a unique case number (503-509). The tone is informative and advisory, with a caveat to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 102,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security, each assigned a unique case number (508-514). The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies, such as SEBI. The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 103,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and the entities mentioned are general financial concepts rather than specific companies or organizations. The format suggests a question-and-answer style, with each question assigned a unique case number (513-519)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 104,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The questions and answers are formatted in a standardized manner, with each response advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 105,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. Each question is assigned a unique case number (523-529), suggesting a systematic approach to organizing the content. The topic is personal finance, and entities mentioned include financial instruments and concepts, such as loans, digital payments, and insurance. The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 106,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities including financial institutions, regulatory bodies (e.g., SEBI), and financial products (e.g., credit cards, loans). The questions and answers follow a consistent format, with each response advising readers to verify information with official or latest sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 107,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and the entities mentioned are general financial concepts rather than specific companies or individuals. The format suggests a question-and-answer style, with each question assigned a unique case number (533-539). The tone is informative and cautionary, advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 108,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The questions and answers follow a consistent format, with each response advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 109,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (543-549). The tone is informative and advisory, with a caveat to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 110,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The questions and answers follow a consistent format, with each response advising readers to verify information with official or latest sources, suggesting a focus on providing general guidance rather than specific advice."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 111,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topics are assigned case numbers (553-559), suggesting a comprehensive and organized approach to financial guidance. The entities mentioned are general financial concepts, with no specific companies or individuals referenced. The tone is informative and cautionary, advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 112,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, with entities such as financial institutions, regulatory bodies (e.g., SEBI), and financial products (e.g., credit cards, loans) being referenced. The chunk is structured as a series of FAQs, with each question followed by a brief answer and a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 113,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (563-569)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 114,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security, each assigned a unique case number (568-574). The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies, such as SEBI. The tone is informative, with a disclaimer to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 115,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits associated with different financial concepts, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include loans, digital payments, insurance, and the stock market. The format suggests a question-and-answer style, with each question assigned a unique case number (573-579)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 116,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to important guidelines, risks, and benefits related to different financial concepts, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 117,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and the entities mentioned are general financial concepts rather than specific companies or individuals. The format suggests a question-and-answer style, with each question assigned a unique case number (583-589)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 118,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief introductions to different financial subjects, including retirement planning, stock market, SEBI rules, savings accounts, credit cards, loans, and fraud/security. The topic is personal finance, and entities mentioned include financial instruments and regulatory bodies. The format suggests a question-and-answer style, with each question assigned a unique case number (e.g., 588, 589). The tone is informative and cautionary, advising readers to verify information with official sources."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 119,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a section dedicated to frequently asked questions (FAQs) about various financial topics. The purpose of this chunk is to provide brief overviews and guidelines for different financial areas, including loans, fraud and security, digital payments, budgeting, insurance, retirement planning, and the stock market. The topic is personal finance, and entities mentioned include financial instruments and concepts. The tone is informative, with a disclaimer to verify information with official sources. The format suggests a question-and-answer style, with each question assigned a unique case number (593-599)."
+  },
+  {
+    "source": "data\\finance_faq.txt",
+    "chunk_idx": 120,
+    "context": "This chunk appears to be an excerpt from the \"finance_faq.txt\" document, likely situated in a question-and-answer section. Its purpose is to provide brief overviews of various financial topics, including retirement planning, stock market, and SEBI rules, each associated with a specific case number (598, 599, and 600). The topic is personal finance, with entities including retirement planning, stock market, and SEBI (Securities and Exchange Board of India). The tone is informative, advising readers to verify information with official sources."
+  }
+]
