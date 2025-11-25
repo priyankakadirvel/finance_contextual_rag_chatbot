@@ -1,7 +1,6 @@
-# retriever/contextual_retriever.py
 import os
-from pinecone import Pinecone
 from dotenv import load_dotenv
+from pinecone import Pinecone
 
 load_dotenv()
 
@@ -10,15 +9,12 @@ pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 index_name = os.getenv("PINECONE_INDEX_NAME")
 index = pc.Index(index_name)
 
-# Hybrid search using only Pinecone (no sentence-transformers)
+# Hybrid search using ONLY Pinecone (no embedding model)
 def hybrid_search(query, k=5):
-    # query is string → Pinecone will use its server-side sparse/dense hybrid search
-    # NOTE: you MUST have stored embeddings already during ingestion
     response = index.query(
+        query=query,
         top_k=k,
-        include_metadata=True,
-        vector=None,        # No sentence-transformer embeddings
-        query=query,        # Use Pinecone text search mode
+        include_metadata=True
     )
 
     results = []
