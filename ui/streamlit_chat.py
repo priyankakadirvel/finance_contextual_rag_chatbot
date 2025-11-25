@@ -1,43 +1,74 @@
-# ui/streamlit_chat.py
 import streamlit as st
-import requests
-from dotenv import load_dotenv
-import os, json
+import os
+from retriever.contextual_retriever import hybrid_search
+from groq import Groq
 
-load_dotenv()
-API_URL = os.getenv("API_URL", "http://localhost:8000")
+# Load secrets
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
+GROQ_MODEL = st.secrets.get("GROQ_MODEL", "llama-3.1-8b-instant")
 
-st.set_page_config(page_title="Finance Chatbot", page_icon="💬")
-st.title("Finance Chatbot — Banking & Personal Finance")
+# Groq Client
+client = Groq(api_key=GROQ_API_KEY)
 
-if "history" not in st.session_state:
-    st.session_state.history = []
+def generate_answer(query, passages, history=[]):
+    # Prepare context
+    context_blob = "\n\n".join(
+        [f"[{i+1}] {p['meta'].get('source','')} :: {p['chunk']}" for i,p in enumerate(passages)]
+    )
 
-def send_query(query):
-    payload = {"query": query, "history": st.session_state.history, "session_meta": {}, "top_k": 5}
-    resp = requests.post(f"{API_URL}/chat", json=payload, timeout=60)
-    if resp.status_code == 200:
-        data = resp.json()
-        return data
+    # History formatting
+    history_text = ""
+    if history:
+        history_text = "\n".join([f"{h['role'].capitalize()}: {h['text']}" for h in history[-3:]])
+
+    system_prompt = "You are a finance RAG assistant. Use ONLY the provided sources. Cite as [1],[2], etc."
+
+    user_prompt = f"""
+Chat History:
+{history_text}
+
+User Query: {query}
+
+Relevant Sources:
+{context_blob}
+
+Answer clearly with citations.
+"""
+
+    response = client.chat.completions.create(
+        model=GROQ_MODEL,
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ],
+        temperature=0.2,
+        max_tokens=400,
+    )
+
+    return response.choices[0].message.content
+
+# Streamlit UI
+st.title("Finance RAG Chatbot (Groq + Pinecone)")
+
+if "history" in st.session_state:
+    history = st.session_state["history"]
+else:
+    st.session_state["history"] = []
+    history = []
+
+user_query = st.text_input("Ask a question:")
+
+if st.button("Send"):
+    if user_query.strip():
+        passages = hybrid_search(user_query, k=5)
+        answer = generate_answer(user_query, passages, st.session_state["history"])
+
+        st.session_state["history"].append({"role": "user", "text": user_query})
+        st.session_state["history"].append({"role": "assistant", "text": answer})
+
+# Show chat
+for msg in st.session_state["history"]:
+    if msg["role"] == "user":
+        st.markdown(f"**You:** {msg['text']}")
     else:
-        st.error(f"API error: {resp.status_code} {resp.text}")
-        return None
-
-with st.form("user_form", clear_on_submit=True):
-    user_input = st.text_input("Ask your banking / personal finance question")
-    submitted = st.form_submit_button("Send")
-    if submitted and user_input.strip():
-        # append user turn
-        st.session_state.history.append({"role":"user", "text": user_input})
-        result = send_query(user_input)
-        if result:
-            # append assistant turn
-            st.session_state.history.append({"role":"assistant", "text": result["answer"]})
-            st.rerun()
-
-st.write("---")
-for turn in st.session_state.history[::-1]:
-    if turn["role"] == "user":
-        st.markdown(f"**You:** {turn['text']}")
-    else:
-        st.markdown(f"**Assistant:** {turn['text']}")
+        st.markdown(f"**Bot:** {msg['text']}")
